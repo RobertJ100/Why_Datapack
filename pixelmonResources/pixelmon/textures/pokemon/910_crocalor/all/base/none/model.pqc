@@ -1,0 +1,5 @@
+$body crocalor.bmd
+$anim idle idle.bmd
+$anim walk walk.bmd
+$anim egg egg.bmd
+$scale 2

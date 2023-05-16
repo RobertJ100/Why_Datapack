@@ -1,0 +1,8 @@
+{
+  "__comment__": "this file was automatically created by mcresources",
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "pixelmon:block/armchair/yellow",
+    "all": "pixelmon:block/armchair/yellow"
+  }
+}
